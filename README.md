@@ -6,10 +6,7 @@ Este proyecto utiliza Selenium en Python para automatizar búsquedas en Google, 
 
 Antes de ejecutar el script, asegúrate de tener instaladas las siguientes dependencias:
 
-Python 3.x
-Selenium
-WebDriver para tu navegador (GeckoDriver para Firefox o ChromeDriver para Chrome)
-WebDriver Manager
+Python 3.x, Selenium, WebDriver para tu navegador (GeckoDriver para Firefox o ChromeDriver para Chrome), WebDriver Manager
 
 Puedes instalarlas con:
 pip install selenium webdriver-manager
